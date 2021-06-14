@@ -1,0 +1,2 @@
+include ':app', ':ashoklibrary'
+rootProject.name='rudrapuashoksampleapp'
